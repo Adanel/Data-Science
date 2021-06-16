@@ -1,4 +1,4 @@
 # Data-Science
 
 
-Centralized work from different projects
+Just stuff I explore and found interesting.
